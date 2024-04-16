@@ -1,0 +1,38 @@
+footer{
+    height: 40vh;
+    background-color: #202329;
+    text-align: center;
+    margin-top: 0px;
+}
+.firow{
+    margin-top: 0px;
+    text-align: center;
+    color: lightgray;
+    padding-top: 50px;
+}
+.firow span{
+    padding: 10px 20px;
+    font-size: .9rem;
+    font-weight: 800;
+}
+.secondrow{
+    text-align: center;
+    color: lightgray;
+    padding-top: 20px;
+    font-weight: 800;
+    font-size: .8rem;
+}
+.thirdrow{
+    text-align: center;
+    color: gray !important;
+    padding-top: 50px;
+}
+.thirdrow i{
+    padding: 10px;
+    font-size: 1.5rem;
+}
+.fourrow{
+    padding-top: 50px;
+    color: lightgray;
+    font-weight: 800;
+}

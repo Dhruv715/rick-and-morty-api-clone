@@ -1,0 +1,47 @@
+header{
+    background-color: white;
+    /* height: 45vh; */
+    padding-bottom: 10px;
+    /* background-color: red; */
+}
+header h1{
+    text-align: center;
+    font-size: 6rem;
+    font-weight: 800;
+    margin-top: 15vh;
+    color: #272b33;
+}
+.navbar{
+    height: 8vh;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 2vw;
+}
+.navbar img{
+    height: 100%;
+    width: 10vw;
+    object-fit: cover;
+}
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    height: 100%;
+}
+.navbar li{
+    padding: 0px 10px;
+    font-weight: 700;
+}
+.special{
+    padding: 10px 10px !important;
+    border: 1px solid orange;
+    border-radius: 10px
+    
+    ;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
